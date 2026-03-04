@@ -60,6 +60,6 @@ https://t.co/7qsZdDkcdP
 
 <img width="1210" height="720" alt="Ab Overview" src="https://github.com/user-attachments/assets/15786b79-cc4b-4703-8ef2-cd5e7b65a51c" />
 
-https://github.com/Real-Chris205/Ethereum-Network-Activity-Analysis-December-2025/blob/main/Daily%20EthereumTransaction.png
+- <a href="https://github.com/Real-Chris205/Ethereum-Network-Activity-Analysis-December-2025/blob/main/Daily%20EthereumTransaction.png"/>
 
 <img width="987" height="539" alt="Daily EthereumTransaction" src="https://github.com/user-attachments/assets/7436a0d1-bb36-408a-831e-daa03cf67953" />
