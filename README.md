@@ -18,6 +18,11 @@ The analysis aims to answer the following questions:
 
 * What trends indicate network growth?
 
-## Key Insights from the analysis include
+## Key Insights and findings from the analysis include
   * In December 2025, Ethereum processed 51.5M transactions, averaging 1.6M per day, 
 indicating sustained high network usage.
+  * Ethereum transaction activity peaked on December 29 reaching  22M transactions, before remaining elevated on December 30–31 (21M each)
+  * Active sender wallets also peaked on December 29, followed closely by the 30th and 31st, indicating that the surge was driven by broad user participation, not just increased activity from a small set of wallets.
+  * This pattern suggests concentrated end of year on-chain activity rather than a one day anomaly.
+
+Not only did more wallets become active, each wallet also executed more transactions on average.
