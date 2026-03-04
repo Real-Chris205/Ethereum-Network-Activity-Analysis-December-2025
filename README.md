@@ -52,12 +52,14 @@ Key SQL queries used in this analysis can be found in:
 
 - <a href="https://github.com/Real-Chris205/Ethereum-Network-Activity-Analysis-December-2025/blob/main/sql/total_transaction.sql">totaal_transaction.sql</a>
 
-## Dashboard
+## Dashboard Interaction
 
 https://t.co/7qsZdDkcdP
 
 ## 📸 Dashboard Preview
 
-- <a href="https://github.com/Real-Chris205/Ethereum-Network-Activity-Analysis-December-2025/blob/main/Daily%20EthereumTransaction.png"/>
+<img width="987" height="539" alt="Daily EthereumTransaction" src="https://github.com/user-attachments/assets/7436a0d1-bb36-408a-831e-daa03cf67953" />
+
+<img width="991" height="544" alt="Total Active Wallet" src="https://github.com/user-attachments/assets/a4d01b27-ca8a-4ad9-8ce8-64c03fde9733" />
 
 
