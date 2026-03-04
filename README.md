@@ -17,3 +17,7 @@ The analysis aims to answer the following questions:
 * How many wallets actively interact with the network?
 
 * What trends indicate network growth?
+
+## Key Insights from the analysis include
+  * In December 2025, Ethereum processed 51.5M transactions, averaging 1.6M per day, 
+indicating sustained high network usage.
