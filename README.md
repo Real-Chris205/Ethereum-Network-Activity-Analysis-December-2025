@@ -47,3 +47,7 @@ Not only did more wallets become active, each wallet also executed more transact
 Key SQL queries used in this analysis can be found in:
 
 - <a href="https://github.com/Real-Chris205/Ethereum-Network-Activity-Analysis-December-2025/blob/main/sql/Total_active_wallet.sql">Total_active_wallet.sql</a>
+
+- <a href="https://github.com/Real-Chris205/Ethereum-Network-Activity-Analysis-December-2025/blob/main/sql/daily_Transaction_volume.sql">daily_transaction_volume.sql</a>
+
+- <a href="https://github.com/Real-Chris205/Ethereum-Network-Activity-Analysis-December-2025/blob/main/sql/total_transaction.sql">totaal_transaction.sql</a>
