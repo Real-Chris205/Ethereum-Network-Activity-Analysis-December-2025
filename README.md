@@ -44,3 +44,5 @@ Not only did more wallets become active, each wallet also executed more transact
 * Network growth trends
 
 ## Sql Queries
+Key SQL queries used in this analysis can be found in:
+/sq/
