@@ -6,14 +6,14 @@ This project analyzes Ethereum on-chain activity to understand network usage, tr
 
 Using SQL queries on blockchain data, the analysis explores how transaction volume and active addresses evolve over time.
 
-##Objectives
+## Objectives
 
 The analysis aims to answer the following questions:
 
-*How many transactions occur on Ethereum daily?
+* How many transactions occur on Ethereum daily?
 
-*How has transaction activity evolved over time?
+* How has transaction activity evolved over time?
 
-*How many wallets actively interact with the network?
+* How many wallets actively interact with the network?
 
-*What trends indicate network growth?
+* What trends indicate network growth?
