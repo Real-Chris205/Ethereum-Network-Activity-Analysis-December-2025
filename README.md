@@ -26,3 +26,21 @@ indicating sustained high network usage.
   * This pattern suggests concentrated end of year on-chain activity rather than a one day anomaly.
 
 Not only did more wallets become active, each wallet also executed more transactions on average.
+
+## Tools Used
+
+* SQL
+
+* Dune Analytics
+
+*Blockchain datasets
+
+## Key Metrics Analyzed
+
+* Daily transaction volume
+
+* Active wallets
+
+* Network growth trends
+
+## Sql Queries
