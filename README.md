@@ -33,7 +33,7 @@ Not only did more wallets become active, each wallet also executed more transact
 
 * Dune Analytics
 
-*Blockchain datasets
+* Blockchain datasets
 
 ## Key Metrics Analyzed
 
